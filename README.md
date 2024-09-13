@@ -6,6 +6,8 @@ This repo is for all diagrams in my master thesis.
 
 The application uses for diagram is drawio. This app has a special feature to translate the text (See [Translate diagrams in the draw.io editor](https://www.drawio.com/blog/translate-diagrams)).
 
+Available languages: `en`, `es`
+
 To use this feature import the diagram in drawio and use the translate-diagram feature:
 
 ![](docs/imgs/translate-diagram.gif)
