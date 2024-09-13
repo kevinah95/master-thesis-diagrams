@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.0.0...v1.5.0) (2024-09-13)
+
+
+### Miscellaneous Chores
+
+* :bookmark: release 1.5.0 ([25343d3](https://github.com/kevinah95/master-thesis-diagrams/commit/25343d37852ab661538108f4a69e4fdeaef524cb))
+
 ## 1.0.0 (2024-09-13)
 
 
