@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.0](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.9.0...v1.10.0) (2024-09-15)
+
+
+### Features
+
+* :bento: Add `Anatomy and Elements of Indented Tree Table` diagrams ([2757244](https://github.com/kevinah95/master-thesis-diagrams/commit/27572447b1ef7e83941a7b7acf9ca152f0fee7f8))
+
 ## [1.9.0](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.8.0...v1.9.0) (2024-09-15)
 
 
