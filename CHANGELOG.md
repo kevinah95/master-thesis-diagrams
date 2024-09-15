@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.0](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.8.0...v1.9.0) (2024-09-15)
+
+
+### Features
+
+* :bento: Add `Calculate sum` diagram ([61b15f6](https://github.com/kevinah95/master-thesis-diagrams/commit/61b15f65a558b4e96728ffa6cf1df0f2d75ad45e))
+
 ## [1.8.0](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.7.0...v1.8.0) (2024-09-15)
 
 
