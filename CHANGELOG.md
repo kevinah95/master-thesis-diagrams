@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.6.0...v1.7.0) (2024-09-15)
+
+
+### Features
+
+* :bento: Add **Create tree of changes** diagram ([32e2686](https://github.com/kevinah95/master-thesis-diagrams/commit/32e268686f6c33e9b92a3305f6a119bf80455ac4))
+
 ## [1.6.0](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.5.0...v1.6.0) (2024-09-15)
 
 
