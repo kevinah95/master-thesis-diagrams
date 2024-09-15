@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8" pages="6">
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8" pages="7">
   <diagram name="Architecture" id="nBpWyTfYA8ze9wGykSNH">
     <mxGraphModel dx="1207" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -903,7 +903,7 @@
         <mxCell id="Xm0CtuqbvhN0J4EDe-2q-1" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="50" y="222" width="50" height="50" as="geometry" />
         </mxCell>
-        <object label="Calculate last complexity" label_es="Calcular última complejidad" id="Xm0CtuqbvhN0J4EDe-2q-2">
+        <object label="Calculate last complexity" label_es="Calcular última complejidad" link="data:page/id,LMdsbm2gYEVpz6hbJ-NW" id="Xm0CtuqbvhN0J4EDe-2q-2">
           <mxCell style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;strokeWidth=2;isLoopSub=1;" vertex="1" parent="1">
             <mxGeometry x="170" y="207" width="120" height="80" as="geometry" />
           </mxCell>
@@ -985,6 +985,110 @@
           </mxCell>
         </object>
         <mxCell id="KImhkNMqJlfTMv3zq2TV-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;dashPattern=1 2;flowAnimation=0;" edge="1" parent="1" source="Xm0CtuqbvhN0J4EDe-2q-10" target="KImhkNMqJlfTMv3zq2TV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LMdsbm2gYEVpz6hbJ-NW" name="Calculate last complexity">
+    <mxGraphModel dx="1026" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CwP8sFBrBHyXJPupGeGO-1" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="222" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CwP8sFBrBHyXJPupGeGO-9" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="CwP8sFBrBHyXJPupGeGO-2" target="CwP8sFBrBHyXJPupGeGO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Order data" label_es="Ordenar los&lt;div&gt;datos&lt;/div&gt;" id="CwP8sFBrBHyXJPupGeGO-2">
+          <mxCell style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="170" y="207" width="120" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="CwP8sFBrBHyXJPupGeGO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;strokeWidth=2;flowAnimation=0;curved=0;endArrow=open;endFill=0;exitX=1.025;exitY=0.533;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CwP8sFBrBHyXJPupGeGO-6" target="CwP8sFBrBHyXJPupGeGO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="140" as="sourcePoint" />
+            <mxPoint x="240" y="182" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwP8sFBrBHyXJPupGeGO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;" edge="1" parent="1" source="CwP8sFBrBHyXJPupGeGO-1" target="CwP8sFBrBHyXJPupGeGO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="162" as="sourcePoint" />
+            <mxPoint x="370" y="162" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="History of&lt;div&gt;changes&lt;/div&gt;" label_es="Historial de&lt;div&gt;cambios&lt;/div&gt;" id="CwP8sFBrBHyXJPupGeGO-6">
+          <mxCell style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="120" y="110" width="40" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="CwP8sFBrBHyXJPupGeGO-14" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="CwP8sFBrBHyXJPupGeGO-8" target="CwP8sFBrBHyXJPupGeGO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Group data" label_es="Agrupar los&lt;div&gt;datos&lt;/div&gt;" id="CwP8sFBrBHyXJPupGeGO-8">
+          <mxCell style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="340" y="207" width="120" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="History of&lt;div&gt;changes&lt;/div&gt;" label_es="Historial de&lt;div&gt;cambios&lt;/div&gt;" id="CwP8sFBrBHyXJPupGeGO-10">
+          <mxCell style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;strokeWidth=2;points=[[0,0,0,0,0],[0,0,0,12.5,0],[0,0,0,25,0],[0,0,0,32.5,7.5],[0,0,0,40,15],[0,0.5,0,0,0],[0,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+            <mxGeometry x="295" y="120" width="40" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="CwP8sFBrBHyXJPupGeGO-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;dashPattern=1 2;flowAnimation=0;" edge="1" parent="1" source="CwP8sFBrBHyXJPupGeGO-2" target="CwP8sFBrBHyXJPupGeGO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CwP8sFBrBHyXJPupGeGO-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;dashPattern=1 2;flowAnimation=0;" edge="1" parent="1" source="CwP8sFBrBHyXJPupGeGO-10" target="CwP8sFBrBHyXJPupGeGO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CwP8sFBrBHyXJPupGeGO-16" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="CwP8sFBrBHyXJPupGeGO-13" target="CwP8sFBrBHyXJPupGeGO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Calculate last complexity" label_es="Calcular última complejidad" id="CwP8sFBrBHyXJPupGeGO-13">
+          <mxCell style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="510" y="207" width="120" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Pivot last&lt;div&gt;complexity&lt;/div&gt;" label_es="Pivotar última&lt;div&gt;complejidad&lt;/div&gt;" id="CwP8sFBrBHyXJPupGeGO-15">
+          <mxCell style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="680" y="207" width="120" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="History of&lt;div&gt;changes&lt;/div&gt;" label_es="Historial de&lt;div&gt;cambios&lt;/div&gt;" id="CwP8sFBrBHyXJPupGeGO-17">
+          <mxCell style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;strokeWidth=2;points=[[0,0,0,0,0],[0,0,0,12.5,0],[0,0,0,25,0],[0,0,0,32.5,7.5],[0,0,0,40,15],[0,0.5,0,0,0],[0,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+            <mxGeometry x="464" y="120" width="40" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="CwP8sFBrBHyXJPupGeGO-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;dashPattern=1 2;flowAnimation=0;" edge="1" parent="1" source="CwP8sFBrBHyXJPupGeGO-8" target="CwP8sFBrBHyXJPupGeGO-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CwP8sFBrBHyXJPupGeGO-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;dashPattern=1 2;flowAnimation=0;" edge="1" parent="1" source="CwP8sFBrBHyXJPupGeGO-17" target="CwP8sFBrBHyXJPupGeGO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="History of&lt;div&gt;changes&lt;/div&gt;" label_es="Historial de&lt;div&gt;cambios&lt;/div&gt;" id="CwP8sFBrBHyXJPupGeGO-20">
+          <mxCell style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;strokeWidth=2;points=[[0,0,0,0,0],[0,0,0,12.5,0],[0,0,0,25,0],[0,0,0,32.5,7.5],[0,0,0,40,15],[0,0.5,0,0,0],[0,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+            <mxGeometry x="634" y="120" width="40" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="CwP8sFBrBHyXJPupGeGO-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;dashPattern=1 2;flowAnimation=0;" edge="1" parent="1" source="CwP8sFBrBHyXJPupGeGO-13" target="CwP8sFBrBHyXJPupGeGO-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CwP8sFBrBHyXJPupGeGO-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;dashPattern=1 2;flowAnimation=0;" edge="1" parent="1" source="CwP8sFBrBHyXJPupGeGO-20" target="CwP8sFBrBHyXJPupGeGO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Grouped table of&lt;div&gt;changes&lt;/div&gt;" label_es="Tabla de cambios&lt;div&gt;agrupada&lt;/div&gt;" id="CwP8sFBrBHyXJPupGeGO-23">
+          <mxCell style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;strokeWidth=2;points=[[0,0,0,0,0],[0,0,0,12.5,0],[0,0,0,25,0],[0,0,0,32.5,7.5],[0,0,0,40,15],[0,0.5,0,0,0],[0,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+            <mxGeometry x="820" y="120" width="40" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="CwP8sFBrBHyXJPupGeGO-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;dashed=1;dashPattern=1 2;flowAnimation=0;" edge="1" parent="1" source="CwP8sFBrBHyXJPupGeGO-15" target="CwP8sFBrBHyXJPupGeGO-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sBb8q-Vv-SXVS3jPE1uh-1" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=general;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="850" y="222" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sBb8q-Vv-SXVS3jPE1uh-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="CwP8sFBrBHyXJPupGeGO-15" target="sBb8q-Vv-SXVS3jPE1uh-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
