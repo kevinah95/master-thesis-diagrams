@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.5.0...v1.6.0) (2024-09-15)
+
+
+### Features
+
+* :bento: Add Unique Complexity Viewer (UC) diagram ([b0c304e](https://github.com/kevinah95/master-thesis-diagrams/commit/b0c304e36e92724f9c1c232ce1d84827a0d11cd3))
+
 ## [1.5.0](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.0.0...v1.5.0) (2024-09-13)
 
 
