@@ -683,7 +683,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FSIgHtZAlGyb6fxtYIn3" name="Unique Complexity Viewer (UC)">
-    <mxGraphModel dx="1207" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -765,7 +765,7 @@
           </mxCell>
         </object>
         <object label="Receive totals&lt;div&gt;calculation&lt;br&gt;&lt;/div&gt;" label_es="Recibir cálculo de&lt;div&gt;totales&lt;/div&gt;" id="naVl-MV1A4Ih8zyUX30D-8">
-          <mxCell style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=link;fontFamily=Helvetica;fontSize=11;fontColor=default;shadow=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxCell style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=link;fontFamily=Helvetica;fontSize=11;fontColor=default;shadow=0;strokeWidth=1;" parent="1" vertex="1">
             <mxGeometry x="260" y="360" width="50" height="50" as="geometry" />
           </mxCell>
         </object>
