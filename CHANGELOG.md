@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.10.0...v1.11.0) (2024-09-16)
+
+
+### Features
+
+* :bento: Translate `Anatomy of the indented tree table` diagram ([dec4b55](https://github.com/kevinah95/master-thesis-diagrams/commit/dec4b55fd3f88634eac9bc5f3b50f7637048c557))
+
 ## [1.10.0](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.9.0...v1.10.0) (2024-09-15)
 
 
