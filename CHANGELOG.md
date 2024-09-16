@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.1](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.11.0...v1.11.1) (2024-09-16)
+
+
+### Bug Fixes
+
+* :pencil2: Fix `Anatomy of indented tree table` typo ([e24a97a](https://github.com/kevinah95/master-thesis-diagrams/commit/e24a97a7a337b4966c105f477a35f133e65dfb7f))
+
 ## [1.11.0](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.10.0...v1.11.0) (2024-09-16)
 
 
