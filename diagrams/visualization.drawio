@@ -82,9 +82,11 @@
             <mxGeometry x="137.5" y="536" width="175" height="30" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="MX_KIdcz_enhysKXvOUR-25" value="columnas fijas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Tahoma;fontColor=#2f5597;" parent="1" vertex="1">
-          <mxGeometry x="175" y="230" width="140" height="30" as="geometry" />
-        </mxCell>
+        <object label="fixed columns" label_es="columnas fijas" id="MX_KIdcz_enhysKXvOUR-25">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Tahoma;fontColor=#2f5597;" parent="1" vertex="1">
+            <mxGeometry x="175" y="230" width="140" height="30" as="geometry" />
+          </mxCell>
+        </object>
         <object label="movable part" label_es="parte movible" id="MX_KIdcz_enhysKXvOUR-26">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Tahoma;fontColor=#548236;" parent="1" vertex="1">
             <mxGeometry x="490" y="400" width="140" height="30" as="geometry" />
