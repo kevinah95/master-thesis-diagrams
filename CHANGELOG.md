@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.2](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.11.1...v1.11.2) (2025-03-14)
+
+
+### Bug Fixes
+
+* :art: Update architecture diagram to reflect new version and naming ([9c30397](https://github.com/kevinah95/master-thesis-diagrams/commit/9c3039779ccadd37f3fda8012656ed3a178b6ddc))
+
 ## [1.11.1](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.11.0...v1.11.1) (2024-09-16)
 
 
