@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.0](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.11.2...v1.12.0) (2025-04-30)
+
+
+### Features
+
+* :bento: Add sequence diagram ([7d01614](https://github.com/kevinah95/master-thesis-diagrams/commit/7d0161431029d140931573e1ae19c1138f834a4a))
+
 ## [1.11.2](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.11.1...v1.11.2) (2025-03-14)
 
 
