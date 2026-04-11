@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.1](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.12.0...v1.12.1) (2026-04-11)
+
+
+### Bug Fixes
+
+* **diagrams:** 🐛 Update visualization.drawio with new dimensions and object structure ([316454a](https://github.com/kevinah95/master-thesis-diagrams/commit/316454aaf73ddc47405b9eb139c73443b9909297))
+
 ## [1.12.0](https://github.com/kevinah95/master-thesis-diagrams/compare/v1.11.2...v1.12.0) (2025-04-30)
 
 
