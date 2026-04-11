@@ -111,7 +111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ecXYx2JAm_aIQAWnzAVb" name="viz_elements">
-    <mxGraphModel dx="1697" dy="1247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4072" dy="2992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,9 +190,41 @@
         <mxCell id="tezD6hEHuim0emruB3dd-21" value="6" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1800" y="1400" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="agoIBnnjc2S8twUwf6G--1" value="Complexity&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Sans Pro;fontSize=26;labelBackgroundColor=light-dark(#e6e6e6, #ededed);fontColor=light-dark(#555555, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="1730" y="277" width="139" height="30" as="geometry" />
-        </mxCell>
+        <object label="Complexity&amp;nbsp;&amp;nbsp;" label_es="Complejidad" id="agoIBnnjc2S8twUwf6G--1">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Serif 4;fontSize=24;labelBackgroundColor=light-dark(#e6e6e6, #ededed);fontColor=light-dark(#555555, #ededed);fontStyle=1;fillColor=light-dark(#e6e6e6, #ededed);" parent="1" vertex="1">
+            <mxGeometry x="1730" y="277" width="180" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Total Complexity" label_es="Complejidad Total" id="q1txxd9TUwjjHyiYFyrM-1">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Serif 4;fontSize=24;labelBackgroundColor=none;fontColor=light-dark(#555555, #ededed);fontStyle=0;fillColor=light-dark(#ffffff, #ededed);" vertex="1" parent="1">
+            <mxGeometry x="239" y="1295" width="321" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Total Complexity (&lt;font style=&quot;font-size: 22px;&quot;&gt;%&lt;/font&gt;)" label_es="Complejidad Total (&lt;font style=&quot;font-size: 22px;&quot;&gt;%&lt;/font&gt;)" id="q1txxd9TUwjjHyiYFyrM-2">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Serif 4;fontSize=24;labelBackgroundColor=none;fontColor=light-dark(#555555, #ededed);fontStyle=0;fillColor=light-dark(#efefef, #ededed);" vertex="1" parent="1">
+            <mxGeometry x="239" y="1344" width="321" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Unique Complexity" label_es="Complejidad Única" id="q1txxd9TUwjjHyiYFyrM-3">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Serif 4;fontSize=24;labelBackgroundColor=none;fontColor=light-dark(#555555, #ededed);fontStyle=0;fillColor=light-dark(#ffffff, #ededed);" vertex="1" parent="1">
+            <mxGeometry x="239" y="1390" width="321" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Unique Complexity (&lt;font style=&quot;font-size: 22px;&quot;&gt;%&lt;/font&gt;)" label_es="Complejidad Única (&lt;font style=&quot;font-size: 22px;&quot;&gt;%&lt;/font&gt;)" id="q1txxd9TUwjjHyiYFyrM-4">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Serif 4;fontSize=24;labelBackgroundColor=none;fontColor=light-dark(#555555, #ededed);fontStyle=0;fillColor=light-dark(#efefef, #ededed);" vertex="1" parent="1">
+            <mxGeometry x="239" y="1436" width="321" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Remaining Knowledge" label_es="Conocimiento Restante" id="q1txxd9TUwjjHyiYFyrM-5">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Serif 4;fontSize=24;labelBackgroundColor=none;fontColor=light-dark(#555555, #ededed);fontStyle=0;fillColor=light-dark(#ffffff, #ededed);" vertex="1" parent="1">
+            <mxGeometry x="239" y="1482" width="321" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Risk percentile" label_es="Percentil de riesgo" id="q1txxd9TUwjjHyiYFyrM-6">
+          <mxCell style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Inter;fontSize=22;labelBackgroundColor=none;fontColor=light-dark(#555555, #ededed);fontStyle=0;fillColor=light-dark(#ffffff, #ededed);" vertex="1" parent="1">
+            <mxGeometry x="232" y="208" width="198" height="30" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
@@ -202,53 +234,53 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object label="User" label_es="Usuario" id="algzKEwDhkdKE_9cpwra-1">
-          <mxCell style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;rounded=1;" vertex="1" parent="1">
+          <mxCell style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;rounded=1;" parent="1" vertex="1">
             <mxGeometry x="20" y="20" width="150" height="1251" as="geometry" />
           </mxCell>
         </object>
         <object label="Table" label_es="Tabla" id="algzKEwDhkdKE_9cpwra-2">
-          <mxCell style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;rounded=1;" vertex="1" parent="1">
+          <mxCell style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;rounded=1;" parent="1" vertex="1">
             <mxGeometry x="336" y="20" width="150" height="1251" as="geometry" />
           </mxCell>
         </object>
         <object label="Header" label_es="Encabezado" id="algzKEwDhkdKE_9cpwra-3">
-          <mxCell style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;rounded=1;" vertex="1" parent="1">
+          <mxCell style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;rounded=1;" parent="1" vertex="1">
             <mxGeometry x="536" y="20" width="150" height="1251" as="geometry" />
           </mxCell>
         </object>
         <object label="Table Content" label_es="Contenido de tabla" id="algzKEwDhkdKE_9cpwra-4">
-          <mxCell style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;rounded=1;" vertex="1" parent="1">
+          <mxCell style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;rounded=1;" parent="1" vertex="1">
             <mxGeometry x="736" y="20" width="150" height="1251" as="geometry" />
           </mxCell>
         </object>
         <object label="Table Description" label_es="Descripción de tabla" id="algzKEwDhkdKE_9cpwra-5">
-          <mxCell style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;rounded=1;" vertex="1" parent="1">
+          <mxCell style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;rounded=1;" parent="1" vertex="1">
             <mxGeometry x="936" y="20" width="150" height="1251" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-6" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;rounded=1;" vertex="1" parent="1">
+        <mxCell id="algzKEwDhkdKE_9cpwra-6" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="317" y="398" width="191" height="294" as="geometry" />
         </mxCell>
         <object label="[cell is activated]" label_es="[la celda está activada]" id="algzKEwDhkdKE_9cpwra-7">
-          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-6">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="algzKEwDhkdKE_9cpwra-6" vertex="1">
             <mxGeometry x="30" width="161" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="[cell is&#xa;deactivated]" label_es="[la celda está&#xa;desactivada]" id="algzKEwDhkdKE_9cpwra-8">
-          <mxCell style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-6">
+          <mxCell style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;rounded=1;" parent="algzKEwDhkdKE_9cpwra-6" vertex="1">
             <mxGeometry y="128" width="191" height="4" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-9" value="loop" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40;rounded=1;" vertex="1" parent="1">
+        <mxCell id="algzKEwDhkdKE_9cpwra-9" value="loop" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="307" y="335" width="211" height="367" as="geometry" />
         </mxCell>
         <object label="[Traverse the tree]" label_es="[Recorre el árbol]" id="algzKEwDhkdKE_9cpwra-10">
-          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-9">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="algzKEwDhkdKE_9cpwra-9" vertex="1">
             <mxGeometry x="40" width="171" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="Activate/Deactivate developer cell" label_es="Activar/Desactivar celda de desarrollador" id="algzKEwDhkdKE_9cpwra-11">
-          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;endArrow=block;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-1" target="algzKEwDhkdKE_9cpwra-2">
+          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;endArrow=block;" parent="1" source="algzKEwDhkdKE_9cpwra-1" target="algzKEwDhkdKE_9cpwra-2" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="262" y="123" />
@@ -256,13 +288,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-12" value="1" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-11">
+        <mxCell id="algzKEwDhkdKE_9cpwra-12" value="1" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-11" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-165.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="Change cell state" label_es="Cambia estado de celda" id="algzKEwDhkdKE_9cpwra-13">
-          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;endArrow=block;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-3">
+          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;endArrow=block;" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-3" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="520" y="171" />
@@ -270,13 +302,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-14" value="2" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-13">
+        <mxCell id="algzKEwDhkdKE_9cpwra-14" value="2" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-13" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-107.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="Get cell state" label_es="Obtiene el estado de celda" id="algzKEwDhkdKE_9cpwra-15">
-          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-3" target="algzKEwDhkdKE_9cpwra-2">
+          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="algzKEwDhkdKE_9cpwra-3" target="algzKEwDhkdKE_9cpwra-2" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="523" y="219" />
@@ -284,13 +316,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-16" value="3" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-15">
+        <mxCell id="algzKEwDhkdKE_9cpwra-16" value="3" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-15" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="93.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="Get table content data" label_es="Obtiene los datos del contenido de tabla" id="algzKEwDhkdKE_9cpwra-17">
-          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;endArrow=block;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-4">
+          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;endArrow=block;" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-4" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="620" y="267" />
@@ -298,13 +330,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-18" value="4" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-17">
+        <mxCell id="algzKEwDhkdKE_9cpwra-18" value="4" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-17" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-207.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="Return table content data" label_es="Devuelve los datos del contenido de tabla" id="algzKEwDhkdKE_9cpwra-19">
-          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-4" target="algzKEwDhkdKE_9cpwra-2">
+          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="algzKEwDhkdKE_9cpwra-4" target="algzKEwDhkdKE_9cpwra-2" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="623" y="315" />
@@ -312,13 +344,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-20" value="5" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-19">
+        <mxCell id="algzKEwDhkdKE_9cpwra-20" value="5" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-19" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="193.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="Update value to original" label_es="Actualiza el valor al original" id="algzKEwDhkdKE_9cpwra-21">
-          <mxCell style="curved=1;endArrow=block;rounded=1;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-2">
+          <mxCell style="curved=1;endArrow=block;rounded=1;" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-2" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="462" y="471" />
@@ -327,13 +359,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-22" value="6" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-21">
+        <mxCell id="algzKEwDhkdKE_9cpwra-22" value="6" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-21" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-57" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="Update value to zero" label_es="Actualiza el valor a cero" id="algzKEwDhkdKE_9cpwra-23">
-          <mxCell style="curved=1;endArrow=block;rounded=1;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-2">
+          <mxCell style="curved=1;endArrow=block;rounded=1;" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-2" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="462" y="612" />
@@ -342,13 +374,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-24" value="7" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-23">
+        <mxCell id="algzKEwDhkdKE_9cpwra-24" value="7" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-23" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-57" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="Get table description data" label_es="Obtiene los datos de la descripción de tabla" id="algzKEwDhkdKE_9cpwra-25">
-          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;endArrow=block;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-5">
+          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;endArrow=block;" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-5" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="720" y="740" />
@@ -356,13 +388,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-26" value="8" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-25">
+        <mxCell id="algzKEwDhkdKE_9cpwra-26" value="8" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-25" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-307.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="Return table description data" label_es="Devuelve los datos del descripción de tabla" id="algzKEwDhkdKE_9cpwra-27">
-          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-5" target="algzKEwDhkdKE_9cpwra-2">
+          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="algzKEwDhkdKE_9cpwra-5" target="algzKEwDhkdKE_9cpwra-2" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="723" y="788" />
@@ -370,13 +402,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-28" value="9" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-27">
+        <mxCell id="algzKEwDhkdKE_9cpwra-28" value="9" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-27" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="293.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="Calculate total complexity" label_es="Calcula la complejidad total" id="algzKEwDhkdKE_9cpwra-29">
-          <mxCell style="curved=1;endArrow=block;rounded=1;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-2">
+          <mxCell style="curved=1;endArrow=block;rounded=1;" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-2" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="462" y="836" />
@@ -385,13 +417,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-30" value="10" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-29">
+        <mxCell id="algzKEwDhkdKE_9cpwra-30" value="10" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-29" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-57" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="Calculate unique complexity" label_es="Calcula la complejidad única" id="algzKEwDhkdKE_9cpwra-31">
-          <mxCell style="curved=1;endArrow=block;rounded=1;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-2">
+          <mxCell style="curved=1;endArrow=block;rounded=1;" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-2" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="462" y="914" />
@@ -400,13 +432,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-32" value="11" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-31">
+        <mxCell id="algzKEwDhkdKE_9cpwra-32" value="11" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-31" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-57" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="Calculate remaining knowledge" label_es="Calcula el conocimiento restante" id="algzKEwDhkdKE_9cpwra-33">
-          <mxCell style="curved=1;endArrow=block;rounded=1;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-2">
+          <mxCell style="curved=1;endArrow=block;rounded=1;" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-2" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="462" y="992" />
@@ -415,13 +447,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-34" value="12" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-33">
+        <mxCell id="algzKEwDhkdKE_9cpwra-34" value="12" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-33" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-57" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="Replace table content" label_es="Reemplaza el contenido de tabla" id="algzKEwDhkdKE_9cpwra-35">
-          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;endArrow=block;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-4">
+          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;endArrow=block;" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-4" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="620" y="1070" />
@@ -429,13 +461,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-36" value="13" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-35">
+        <mxCell id="algzKEwDhkdKE_9cpwra-36" value="13" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-35" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-207.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="Replace table description" label_es="Reemplaza la descripción de tabla" id="algzKEwDhkdKE_9cpwra-37">
-          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;endArrow=block;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-5">
+          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;endArrow=block;" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-5" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="720" y="1118" />
@@ -443,13 +475,13 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-38" value="14" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-37">
+        <mxCell id="algzKEwDhkdKE_9cpwra-38" value="14" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-37" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-307.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <object label="Get updated view" label_es="Obtiene una vista actualizada" id="algzKEwDhkdKE_9cpwra-39">
-          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-1">
+          <mxCell style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="algzKEwDhkdKE_9cpwra-2" target="algzKEwDhkdKE_9cpwra-1" edge="1">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="265" y="1166" />
@@ -457,7 +489,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="algzKEwDhkdKE_9cpwra-40" value="15" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="algzKEwDhkdKE_9cpwra-39">
+        <mxCell id="algzKEwDhkdKE_9cpwra-40" value="15" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;rounded=1;" parent="algzKEwDhkdKE_9cpwra-39" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="151.5" y="-7" as="offset" />
           </mxGeometry>
